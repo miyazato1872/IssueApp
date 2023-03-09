@@ -22,4 +22,11 @@ public class IssueController {
         issueRepository.insert(issueForm.getTitle(), issueForm.getContent(), issueForm.getPeriod(), issueForm.getImportance());
         return "redirect:/";
     }
+
+    @GetMapping
+    public String showIssues(Model model){
+        var issueList = issueRepository.findAll();  //『var』を使うと値の種類によってデータ型が推論され、推論されたデータ型で宣言が行われ「型推論」
+        model.addAttribute("issueList", issueList);
+        return "index";
+    }
 }
