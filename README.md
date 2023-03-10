@@ -13,6 +13,11 @@
 デプロイはしていない
 
 # 実装した機能についての画像やGIFおよびその説明
-![スクリーンショット 2023-03-10 14.31.58.png](..%2F..%2FDesktop%2F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-03-10%2014.31.58.png)
-![スクリーンショット 2023-03-10 14.31.53.png](..%2F..%2FDesktop%2F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-03-10%2014.31.53.png)
-![スクリーンショット 2023-03-10 14.32.43.png](..%2F..%2FDesktop%2F%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202023-03-10%2014.32.43.png)
+### 一覧画面
+[![Image from Gyazo](https://i.gyazo.com/31e2694775a7ca0f8d2e85647c44224b.png)](https://gyazo.com/31e2694775a7ca0f8d2e85647c44224b)
+
+### 新規投稿画面
+[![Image from Gyazo](https://i.gyazo.com/23918702202c82f0db0735f32b58fee3.png)](https://gyazo.com/23918702202c82f0db0735f32b58fee3)
+
+### 編集画面
+[![Image from Gyazo](https://i.gyazo.com/b36f89f8f54f8ca2ee1ac19ae7fd6ee0.png)](https://gyazo.com/b36f89f8f54f8ca2ee1ac19ae7fd6ee0)
